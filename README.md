@@ -32,7 +32,7 @@ Christmas
   </ul>
 
   <script>
-    let names = ["Name1", "Name2", "Name3", "Name4"]; // Add your list of names here
+    let names = ["Deborah", "Natasha", "Nicole", "Elizabeth", "Nikita", "Nathanial", "Nathan", "Nathius"]; // Add your list of names here
     let removedNames = [];
 
     function spin() {
